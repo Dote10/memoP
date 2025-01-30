@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "마크다운 사용법.md",
+                "file": "first_step/마크다운 사용법.md",
                 "mode": "source",
                 "source": false
               },
@@ -195,10 +195,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b8f2401bd412caac",
+  "active": "e5734ed0a5eaa3ed",
   "lastOpenFiles": [
-    "옵시디언 사용법.md",
-    "마크다운 사용법.md",
+    "first_step",
+    "first_step/옵시디언 사용법.md",
+    "first_step/마크다운 사용법.md",
     "Welcome.md"
   ]
 }
