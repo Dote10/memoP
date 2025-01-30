@@ -6,7 +6,6 @@
       {
         "id": "c5bb5ff574294c01",
         "type": "tabs",
-        "dimension": 68.97058823529412,
         "children": [
           {
             "id": "a86a4619cf6b64c3",
@@ -14,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "first_step/옵시디언 사용법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "옵시디언 사용법"
             }
           },
           {
@@ -34,24 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "마크다운 사용법"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f5507ac8f5210cb1",
-        "type": "tabs",
-        "dimension": 31.029411764705884,
-        "children": [
-          {
-            "id": "98ec1e7046cd1440",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
             }
           }
         ]
@@ -195,11 +176,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e5734ed0a5eaa3ed",
+  "active": "a86a4619cf6b64c3",
   "lastOpenFiles": [
-    "first_step",
-    "first_step/옵시디언 사용법.md",
     "first_step/마크다운 사용법.md",
-    "Welcome.md"
+    "Welcome.md",
+    "first_step",
+    "first_step/옵시디언 사용법.md"
   ]
 }
